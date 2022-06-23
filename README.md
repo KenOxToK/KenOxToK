@@ -8,3 +8,5 @@
  
  ## Views
 ![Visitas](https://visitor-badge.glitch.me/badge?page_id=KenOxToK)
+
+![Snake animation](https://github.com/KenOxToK/KenOxToK/blob/output/github-contribution-grid-snake.svg)
