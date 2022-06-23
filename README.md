@@ -6,3 +6,5 @@
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenOxToK&layout=compact&langs_count=7&theme=gruvbox"/
 </div>
  
+ ## Views
+![Visitas](https://visitor-badge.glitch.me/badge?page_id=KenOxToK)
