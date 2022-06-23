@@ -5,7 +5,4 @@
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=KenOxToK&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenOxToK&layout=compact&langs_count=7&theme=gruvbox"/
 </div>
-    
-<div> 
-   ![Snake animation](https://github.com/KenOxToK/KenOxToK/blob/output/github-contribution-grid-snake.svg)
-</div>  
+ 
