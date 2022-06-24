@@ -12,4 +12,11 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{KenOxToK}/count.svg" /></p> 
 <br></div>
 
+<h3 align="center">Connect with me:</h3>
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/henriquevomsteingreghi/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-kenj-pcd-ab79a11b4/">
+  </a>
+  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
